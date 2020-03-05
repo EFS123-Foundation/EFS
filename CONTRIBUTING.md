@@ -8,3 +8,8 @@ Contribution can be review, pull request, supplements or any kinds of that sound
 ## EFS
 Thanks to big mind resources like GitHub, Superblocks, and the others who are helping us to reach our goal.
 AYCH Inc is grateful to these good initiatives and foundations. Our success includes these presence.
+
+
+## Contributing destination
+Contribution should be made to EFS destination at
+<https://github.com/EFS123-Foundation/EFS/>
