@@ -1,6 +1,7 @@
 # EFS
 
-The EFS is created for block CHAIN development.
+The EFS is created for block CHAIN development. The owner of this block CHAIN needs further instructions on how to use it in its FAQs and relevant documentation releases.
+It is expected to be simple, secure and efficient in use. Its purpose is for both personal and business usages. It takes no comparison with previous or later on push, rather than it keeps looking for initiatives and improvements.
 
 
 ## EFS163
