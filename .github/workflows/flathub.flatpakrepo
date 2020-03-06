@@ -1,1 +1,3 @@
 flatpak install flathub org.gimp.GIMP
+
+flatpak run org.gimp.GIMP
