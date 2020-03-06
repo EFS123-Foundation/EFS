@@ -1,3 +1,6 @@
 flatpak install flathub org.gimp.GIMP
 
 flatpak run org.gimp.GIMP
+
+License
+GPL-3.0+ AND LGPL-3.0+
